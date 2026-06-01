@@ -1,130 +1,176 @@
-<h1 align="center">Hi 👋 I'm Teeraphat Lansantad</h1>
-<h3 align="center">Full Stack Developer | Laravel Developer | AI Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:7C3AED&text=Teeraphat%20Lansantad&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Full Stack Developer 🚀</h1>
 
 <p align="center">
-  Building scalable web applications, APIs, and AI-powered solutions.
+  Laravel • React • Next.js • Golang • Docker • AI Agents
+</p>
+
+<p align="center">
+  <a href="mailto:tlansantad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/GPA-3.69%2F4.00-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Thailand-blue?style=for-the-badge">
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-💻 Full Stack Developer with hands-on experience designing and shipping production web applications.
+I'm a Full Stack Developer with hands-on experience building production-ready web applications.
 
-🎓 Bachelor of Computer Science, Chaiyaphum Rajabhat University (GPA 3.69/4.00)
+My primary expertise is Laravel and RESTful API development, complemented by frontend development using React, Next.js, and modern JavaScript frameworks.
 
-🌱 Currently exploring:
-- AI Agents
-- RAG Applications
-- Local LLMs
-- Docker & Kubernetes
-- Next.js
-- Golang
+Currently exploring:
 
-⚡ Strong backend foundation in Laravel and RESTful API development, combined with modern frontend technologies and AI-assisted development workflows.
+* AI Agents
+* RAG Systems
+* Local LLM Deployment
+* Docker & Kubernetes
+* Golang Backend Services
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### AIRPORTELs (Intern)
-📍 Nonthaburi, Thailand  
-🗓️ Nov 2025 - Mar 2026
+### AIRPORTELs — Software Developer Intern
 
-- Designed and implemented RESTful APIs for luggage check-in and storage tracking workflows.
-- Architected MySQL database schemas with integrity constraints.
-- Built interactive frontend interfaces using React and Laravel Blade.
-- Implemented AJAX-based real-time status updates.
-- Managed end-to-end request validation and error handling.
-- Collaborated using Git and participated in code reviews.
+**Nov 2025 - Mar 2026**
+
+* Designed and implemented RESTful APIs
+* Developed luggage tracking workflows
+* Built React + Laravel interfaces
+* Designed MySQL relational schemas
+* Integrated AJAX-based real-time updates
+* Participated in Git-based code reviews
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
+
+### 🎓 Graduate Reporting System
+
+Web-based graduate registration and attendance confirmation platform.
+
+**Tech Stack**
+
+Laravel • MySQL • AJAX • Bootstrap
+
+---
+
+### 🏢 Dormitory Management System
+
+Complete dormitory operations platform.
+
+**Features**
+
+* Room Management
+* Billing System
+* Maintenance Requests
+* Resident Tracking
+
+**Tech Stack**
+
+Laravel • MySQL • Tailwind CSS
+
+---
+
+### 🤝 Volunteer Hour Tracking System
+
+Volunteer activity management with reporting and transcript generation.
+
+**Tech Stack**
+
+Laravel • MySQL • Chart.js
+
+---
+
+### 💈 Barbershop Booking & Queue Management System
+
+Multi-shop appointment scheduling platform.
+
+**Tech Stack**
+
+Laravel • MySQL • Real-time Queue System
+
+---
+
+## 🧠 AI & Automation
+
+```text
+Prompt Engineering
+AI Agent Development
+LLM Integration
+RAG Applications
+OpenRouter API
+Ollama
+Claude Code
+Codex
+Gemini CLI
+GitHub Copilot
+```
+
+---
+
+## ⚙️ Tech Stack
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![PHP](https://skillicons.dev/icons?i=php)
+![go](https://skillicons.dev/icons?i=go)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![react](https://skillicons.dev/icons?i=react)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+![js](https://skillicons.dev/icons?i=js)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://skillicons.dev/icons?i=mysql)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
 
-### DevOps & Tools
+### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🤖 AI & Automation
-
-- Prompt Engineering
-- AI-Assisted Development
-- Basic LLM Integration
-- AI Agent Development
-- Ollama
-- OpenRouter API
-- Claude Code
-- Codex
-- GitHub Copilot
-- Gemini CLI
+![docker](https://skillicons.dev/icons?i=docker)
+![linux](https://skillicons.dev/icons?i=linux)
+![git](https://skillicons.dev/icons?i=git)
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Analytics
 
-### 🎓 Graduate Reporting System
-Web-based graduate registration and attendance confirmation platform using Laravel and MySQL.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Teeraphat2104&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teeraphat2104&layout=compact&theme=tokyonight"/>
+</p>
 
-### 🏢 Dormitory Management System
-Full-stack dormitory management system with room allocation, billing, maintenance requests, and resident management.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teeraphat2104&theme=tokyonight"/>
+</p>
 
-### 🤝 Volunteer Hour Tracking System
-Volunteer hour management and approval system with reporting and transcript generation.
-
-### 💈 Barbershop Booking & Queue Management System
-Multi-shop appointment and queue management platform with real-time scheduling workflows.
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Teeraphat2104&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Teeraphat2104&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Teeraphat2104&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Teeraphat2104&theme=tokyonight&column=4"/>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 2026 Goals
 
-- Laravel Ecosystem
-- AI Agent Development
-- RAG Systems
-- Docker & Kubernetes
-- Next.js Applications
-- Golang Backend Services
-
----
-
-## 📫 Contact
-
-📧 tlansantad@gmail.com
+* Build AI Agent Platform
+* Master Kubernetes
+* Deploy Production-grade RAG Systems
+* Learn Advanced Golang Architecture
+* Contribute to Open Source
 
 ---
 
-⭐️ If you like my projects, feel free to explore my repositories!
+<p align="center">
+  Thanks for visiting my profile 🚀
+</p>
