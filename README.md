@@ -146,22 +146,21 @@ GitHub Copilot
 
 ## 📈 GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teeraphat2104&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teeraphat2104&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Teeraphat2104&theme=github_dark)
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Teeraphat2104&theme=github-dark-blue&hide_border=true"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teeraphat2104&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teeraphat2104&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teeraphat2104&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Teeraphat2104&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Teeraphat2104&theme=tokyonight&column=4"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=Teeraphat2104&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Teeraphat2104&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
