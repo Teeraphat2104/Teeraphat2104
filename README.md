@@ -159,10 +159,6 @@ GitHub Copilot
   <img width="100%" src="https://streak-stats.demolab.com?user=Teeraphat2104&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Teeraphat2104&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
 ---
 
 ## 🎯 2026 Goals
