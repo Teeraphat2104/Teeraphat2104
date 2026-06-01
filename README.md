@@ -102,13 +102,11 @@ Multi-shop appointment and queue management platform with real-time scheduling w
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teeraphat2104&show_icons=true&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Teeraphat2104&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teeraphat2104&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Teeraphat2104&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Teeraphat2104&layout=compact&theme=tokyonight)
 
 ---
 
