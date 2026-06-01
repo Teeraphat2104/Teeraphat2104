@@ -147,12 +147,17 @@ GitHub Copilot
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Teeraphat2104&show_icons=true&theme=tokyonight&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teeraphat2104&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Teeraphat2104&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teeraphat2104&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teeraphat2104&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Teeraphat2104&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teeraphat2104&theme=github_dark"/>
 </p>
 
 <p align="center">
