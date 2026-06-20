@@ -1,176 +1,178 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:7C3AED&text=Teeraphat%20Lansantad&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
 
-<h1 align="center">Full Stack Developer 🚀</h1>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ████████╗    ██╗                                       ║
+║      ██╔══╝   ██╔╝                                       ║
+║      ██║     ██╔╝                                        ║
+║      ██║    ██╔╝   Teeraphat Lansantad                   ║
+║      ██║   ██╔╝    Full Stack Developer                  ║
+║      ╚═╝  ╚═╝      Thailand 🇹🇭                          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  Laravel • React • Next.js • Golang • Docker • AI Agents
-</p>
+[![Email](https://img.shields.io/badge/─%20tlansantad%40gmail.com%20─-4F46E5?style=flat-square&logo=gmail&logoColor=white)](mailto:tlansantad@gmail.com)
+[![GPA](https://img.shields.io/badge/GPA%20─%203.69%20%2F%204.00-7C3AED?style=flat-square)](.)
+[![Status](https://img.shields.io/badge/─%20Open%20to%20work%20─-10B981?style=flat-square)](.)
 
-<p align="center">
-  <a href="mailto:tlansantad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/GPA-3.69%2F4.00-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Location-Thailand-blue?style=for-the-badge">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Full Stack Developer with hands-on experience building production-ready web applications.
-
-My primary expertise is Laravel and RESTful API development, complemented by frontend development using React, Next.js, and modern JavaScript frameworks.
-
-Currently exploring:
-
-* AI Agents
-* RAG Systems
-* Local LLM Deployment
-* Docker & Kubernetes
-* Golang Backend Services
+</div>
 
 ---
 
-## 💼 Experience
+## `whoami`
 
-### AIRPORTELs — Software Developer Intern
+Full Stack Developer ที่หลงใหลในการสร้าง production-ready web applications  
+จาก backend API ไปจนถึง pixel-perfect frontend — และกำลังลุยด้าน **AI Agents** อย่างจริงจัง
 
-**Nov 2025 - Mar 2026**
-
-* Designed and implemented RESTful APIs
-* Developed luggage tracking workflows
-* Built React + Laravel interfaces
-* Designed MySQL relational schemas
-* Integrated AJAX-based real-time updates
-* Participated in Git-based code reviews
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Graduate Reporting System
-
-Web-based graduate registration and attendance confirmation platform.
-
-**Tech Stack**
-
-Laravel • MySQL • AJAX • Bootstrap
-
----
-
-### 🏢 Dormitory Management System
-
-Complete dormitory operations platform.
-
-**Features**
-
-* Room Management
-* Billing System
-* Maintenance Requests
-* Resident Tracking
-
-**Tech Stack**
-
-Laravel • MySQL • Tailwind CSS
-
----
-
-### 🤝 Volunteer Hour Tracking System
-
-Volunteer activity management with reporting and transcript generation.
-
-**Tech Stack**
-
-Laravel • MySQL • Chart.js
-
----
-
-### 💈 Barbershop Booking & Queue Management System
-
-Multi-shop appointment scheduling platform.
-
-**Tech Stack**
-
-Laravel • MySQL • Real-time Queue System
-
----
-
-## 🧠 AI & Automation
-
-```text
-Prompt Engineering
-AI Agent Development
-LLM Integration
-RAG Applications
-OpenRouter API
-Ollama
-Claude Code
-Codex
-Gemini CLI
-GitHub Copilot
+```yaml
+core_stack:   [Laravel, React, Next.js, Golang]
+exploring:    [AI Agents, RAG, Local LLM, Kubernetes]
+mindset:      builder → shipper → learner
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## `work --history`
 
-### Backend
+```
+▸ AIRPORTELs                             Nov 2025 – Mar 2026
+  Role  : Software Developer Intern
+  ─────────────────────────────────────────────────────────
+  ✦  Designed & implemented RESTful APIs
+  ✦  Built luggage tracking workflows end-to-end
+  ✦  React + Laravel interfaces with MySQL schemas
+  ✦  AJAX real-time updates integration
+  ✦  Git-based code review workflow
+```
+
+---
+
+## `ls ./projects`
+
+<details>
+<summary><b>🎓 Graduate Reporting System</b></summary>
+
+> Web-based platform สำหรับลงทะเบียนและยืนยันการเข้าร่วมพิธีรับปริญญา
+
+**Stack** `Laravel` `MySQL` `AJAX` `Bootstrap`
+
+</details>
+
+<details>
+<summary><b>🏢 Dormitory Management System</b></summary>
+
+> ระบบจัดการหอพักครบวงจร — ห้องพัก, ระบบเรียกเก็บเงิน, แจ้งซ่อม, ติดตามผู้พักอาศัย
+
+**Stack** `Laravel` `MySQL` `Tailwind CSS`  
+**Features** Room mgmt · Billing · Maintenance Requests · Resident Tracking
+
+</details>
+
+<details>
+<summary><b>🤝 Volunteer Hour Tracking System</b></summary>
+
+> จัดการกิจกรรมจิตอาสา พร้อม dashboard รายงานและออกเกียรติบัตรอัตโนมัติ
+
+**Stack** `Laravel` `MySQL` `Chart.js`
+
+</details>
+
+<details>
+<summary><b>💈 Barbershop Booking & Queue</b></summary>
+
+> ระบบจองคิวร้านตัดผมหลายสาขา พร้อม real-time queue management
+
+**Stack** `Laravel` `MySQL` `Real-time Queue System`
+
+</details>
+
+---
+
+## `cat tech_stack.json`
+
+```json
+{
+  "backend":   ["Laravel", "PHP", "Golang", "Node.js"],
+  "frontend":  ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+  "database":  ["MySQL", "MongoDB"],
+  "devops":    ["Docker", "Linux", "Git"],
+  "ai_tools":  [
+    "Prompt Engineering", "AI Agent Dev", "LLM Integration",
+    "RAG Applications",   "OpenRouter",   "Ollama",
+    "Claude Code",        "Codex",        "Gemini CLI",
+    "GitHub Copilot"
+  ]
+}
+```
+
+---
+
+## `./skills --visual`
+
+**Backend**
 
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![PHP](https://skillicons.dev/icons?i=php)
-![go](https://skillicons.dev/icons?i=go)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
+![Go](https://skillicons.dev/icons?i=go)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-### Frontend
+**Frontend**
 
-![react](https://skillicons.dev/icons?i=react)
-![nextjs](https://skillicons.dev/icons?i=nextjs)
-![js](https://skillicons.dev/icons?i=js)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### Database
+**Database & DevOps**
 
-![mysql](https://skillicons.dev/icons?i=mysql)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-
-### DevOps
-
-![docker](https://skillicons.dev/icons?i=docker)
-![linux](https://skillicons.dev/icons?i=linux)
-![git](https://skillicons.dev/icons?i=git)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
 
 ---
 
-## 📈 GitHub Analytics
+## `git log --goals 2026`
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teeraphat2104&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teeraphat2104&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Teeraphat2104&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Teeraphat2104&theme=github-dark-blue&hide_border=true"/>
-</p>
+```
+commit a1b2c3  ─  Build AI Agent Platform
+commit d4e5f6  ─  Master Kubernetes
+commit 7g8h9i  ─  Deploy production-grade RAG Systems
+commit j0k1l2  ─  Advanced Golang Architecture
+commit m3n4o5  ─  Contribute to Open Source
+```
 
 ---
 
-## 🎯 2026 Goals
+## `gh stats --user Teeraphat2104`
 
-* Build AI Agent Platform
-* Master Kubernetes
-* Deploy Production-grade RAG Systems
-* Learn Advanced Golang Architecture
-* Contribute to Open Source
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teeraphat2104&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teeraphat2104&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Teeraphat2104&theme=github_dark"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Teeraphat2104&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile 🚀
-</p>
+<div align="center">
+
+```
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+`made with ♥ + coffee in Thailand`
+
+</div>
